@@ -1,5 +1,7 @@
 @media (max-width: 1120px) {
-
+    body {
+        overflow-y: scroll;
+      }
     .cabecalho .logo {
         max-width: 90px;
     }
