@@ -14,7 +14,7 @@ Para usar este projeto, você pode navegar pelas páginas do site e conhecer os 
  ![Xman-descktop](https://github.com/aureliandro-oliveira/x-men-szpc/assets/140663518/62e0c815-e6a3-48a0-922a-288b76f7258b)
 ### Celular
  
- ![celular](https://github.com/aureliandro-oliveira/x-men-szpc/assets/140663518/327426be-0a5c-4222-8e77-41dcaed21a13)
+ ![Screenshot_3](https://github.com/aureliandro-oliveira/x-men-szpc/assets/140663518/21d136b8-e354-4de3-825b-2b94c932e466)
 
 
 ## Tecnologias usadas
