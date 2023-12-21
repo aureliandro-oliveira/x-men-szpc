@@ -27,4 +27,7 @@ Para usar este projeto, você pode navegar pelas páginas do site e conhecer os 
 ## Instalação
 Para instalar este projeto, você pode clonar ou baixar este repositório para o seu computador. Você também pode acessar o site diretamente pelo link https://aureliandro-oliveira.github.io/x-men-szpc/.
 
+ ## Agradecimentos
+ Dev Quest - Dev em dobro que me proporcionou a aprender mais com este projeto. 
+
 
